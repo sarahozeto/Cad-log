@@ -5,7 +5,7 @@
 
 # INTRODUÇÃO
 
-![Imagem da página inicial]()
+![Imagem da página inicial](img/printtelaprincipal.png)
 
 Usando as tecnologias do HTML, construimos um projeto com o uso de Bootstrap com o objetivo de treinar o uso do README.
 
