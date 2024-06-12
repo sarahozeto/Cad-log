@@ -1,12 +1,10 @@
-# CADASRO & LOGIN
-
-# índice
-[Projeto de Cadastro e Login - Introdução]()  
+# CADASTRO & LOGIN
+[Introdução]()  
 [Funcionalidades](#funcionalidades)  
 [Tecnologias utilizadas](#tecnologias-utilizadas)   
 [Autores](#autores)  
 
-# Projeto de Cadastro e Login - Introdução
+# INTRODUÇÃO
 
 ![Imagem da página inicial]()
 
@@ -16,7 +14,7 @@ Usando as tecnologias do HTML, construímos um arquivo com o uso de bootstrap pa
 
 ## FUNCIONALIDADES
 
-![imagem do cógigo]()
+![imagem do código]()
 
 
 ## Tecnologias utilizadas
